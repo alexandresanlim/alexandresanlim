@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+<p align='center'>
+<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre"><img height="30" src="https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/alexandresanlim"><img height="30" src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://visitor-badge.glitch.me/badge?page_id=alexandresanlim.alexandresanlim"></a>
+</p>
 
 <!--
 **alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
