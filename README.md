@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+<h1 align='center'>
+  👨‍💻
+</h1>
+
 <p align='center'>
+  
   I'm Alexandre. A mobile and .net developer from Curitiba, Brazil.
   
   </p>
