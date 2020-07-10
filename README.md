@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Curitiba, Brazil.
+  I'm a mobile and .net developer from Curitiba, Brazil.
 </p>
 
 <p align='center'>
