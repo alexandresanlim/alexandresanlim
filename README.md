@@ -1,12 +1,11 @@
 
 
 <h1 align='center'>
-  Hi there 👋
-  👨‍💻
+  Hi there 👋 I'm Alexandre 👨‍💻
 </h1>
 
 <p align='center'>
-  I'm Alexandre. A mobile and .net developer from Curitiba, Brazil.
+  A mobile and .net developer from Curitiba, Brazil.
 </p>
 
 <p align='center'>
