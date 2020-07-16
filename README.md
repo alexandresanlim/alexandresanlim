@@ -33,6 +33,7 @@
 
 -->
 
+<!--
 <p>
   <p align='left'>
 I'm really like development mobile apps, currently working at a small startup and to solutions for companies.
@@ -42,6 +43,7 @@ I'm really like development mobile apps, currently working at a small startup an
     <img width='150' src='https://github.com/alexandresanlim/XamarinUI.Dashboard/raw/master/XamarinUI.Dashboard/XamarinUI.Dashboard/Src/Img/Screen/android.gif?raw.=true'/>
   </p>
 </p>
+-->
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
