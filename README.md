@@ -37,7 +37,7 @@
   <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=alexandresanlim.alexandresanlim"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=alexandresanlim.alexandresanlim"></a> hipsters and nerds come here 😂
 </p>
 
 <!--
