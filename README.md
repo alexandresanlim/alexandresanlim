@@ -34,7 +34,13 @@
 -->
 
 <p>
+  <p align='left'>
 I'm really like development mobile apps, currently working at a small startup and to solutions for companies.
+    Can you see my last mobile development -> 
+    </p>
+  <p align='right'>
+    <img width='150' src='https://github.com/alexandresanlim/XamarinUI.Dashboard/raw/master/XamarinUI.Dashboard/XamarinUI.Dashboard/Src/Img/Screen/android.gif?raw.=true'/>
+  </p>
 </p>
 
 <p align='center'>
