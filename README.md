@@ -33,8 +33,12 @@
 
 -->
 
+<p>
+I'm really like development mobile apps, currently working at a small startup and to solutions for companies.
+</p>
+
 <p align='center'>
-  <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=alexandresanlim.alexandresanlim"></a> hipsters and nerds come here 😂
