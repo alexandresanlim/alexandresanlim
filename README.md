@@ -8,6 +8,8 @@
   A mobile and .net developer from Curitiba, Brazil.
 </p>
 
+
+
 <p align='center'>
   
   <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
@@ -30,9 +32,13 @@
 <img src="https://img.shields.io/badge/html%20🟢🟢🟢🟢⚪-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
 
 -->
+
+<p align='center'>
+  <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+</p>
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=alexandresanlim.alexandresanlim"></a>
-  </p>
+</p>
 
 <!--
 **alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
