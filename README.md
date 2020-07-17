@@ -49,7 +49,7 @@ I'm really like development mobile apps, currently working at a small startup an
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=alexandresanlim.alexandresanlim"></a> hipsters and nerds come here 😂
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=alexandresanlim"></a> hipsters and nerds come here 😂
 </p>
 
 <!--
