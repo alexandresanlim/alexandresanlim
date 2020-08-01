@@ -46,8 +46,8 @@ I'm really like development mobile apps, currently working at a small startup an
 -->
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" height="190"></a>
-  <a href="#"><img src="https://i.giphy.com/media/nFFguNjdeotwc/giphy.gif" height="190"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://i.giphy.com/media/nFFguNjdeotwc/giphy.gif" width="250"></a>
 </p>
 
 
