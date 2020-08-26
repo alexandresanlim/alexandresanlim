@@ -50,6 +50,12 @@ I'm really like development mobile apps, currently working at a small startup an
   <a href="#"><img src="https://i.giphy.com/media/nFFguNjdeotwc/giphy.gif" width="250"></a>
 </p>
 
+<details align='center'>
+  <summary>:zap: Experience data from linkedin</summary>
+
+  <img src="https://github-readme-linkedin.vercel.app/experience?username=alexandresanlim&limit=2" />
+
+</details>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
