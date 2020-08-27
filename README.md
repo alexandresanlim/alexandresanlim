@@ -51,9 +51,13 @@ I'm really like development mobile apps, currently working at a small startup an
 </p>
 
 <details align='center'>
-  <summary>:zap: Experience data from linkedin</summary>
+  <summary>:zap: My workspace spacs</summary>
 
-  <img src="https://github-readme-linkedin.vercel.app/experience?username=alexandresanlim&limit=2" />
+  <img src="https://img.shields.io/badge/windows-avell%20liv%20a52-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+
+
 
 </details>
 
