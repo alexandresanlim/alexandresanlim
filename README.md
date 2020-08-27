@@ -51,7 +51,7 @@ I'm really like development mobile apps, currently working at a small startup an
 </p>
 
 <details align='center'>
-  <summary>:zap: My workspace spacs</summary>
+  <summary>:zap: My workspace specs</summary>
 
   <img src="https://img.shields.io/badge/windows-avell%20liv%20a52-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
