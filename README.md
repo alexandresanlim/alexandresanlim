@@ -50,16 +50,16 @@ I'm really like development mobile apps, currently working at a small startup an
   <a href="#"><img src="https://i.giphy.com/media/nFFguNjdeotwc/giphy.gif" width="250"></a>
 </p>
 
-<details align='center'>
-  <summary>:zap: My workspace specs</summary>
-
+<p align='center'>
+  💻 My workspace specs<br/><br/>
   <img src="https://img.shields.io/badge/windows-avell%20liv%20a52-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+ </p>
 
-
-
-</details>
+<!-- <details align='center'>
+  <summary>:zap: My workspace specs</summary>
+</details>-->
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
