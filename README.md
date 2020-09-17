@@ -74,6 +74,8 @@
 📍 **Web Works** - Presidente Prudente, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
