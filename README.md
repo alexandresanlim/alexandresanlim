@@ -64,6 +64,7 @@
 <img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **CIO and Mobile Developer**\
