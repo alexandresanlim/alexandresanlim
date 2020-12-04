@@ -123,6 +123,14 @@
 
 </details>
 
+<details>
+  <summary>📦 My Packages</summary>
+  
+  https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend
+  
+</details>
+  
+
 <!--
 **alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
