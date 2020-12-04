@@ -126,7 +126,10 @@
 <details>
   <summary>📦 My Packages</summary>
   
-  https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend
+| Name                 | A short summary                             | Install   | Downloads |
+| -------------------- | ------------------------------------------- | --------- | --------- |
+| Slack Exception Send | Send your application exceptions to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send)
+<!-- | Content Cell         | Content Cell                                | link | link | -->
   
 </details>
   
