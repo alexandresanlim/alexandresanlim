@@ -63,6 +63,12 @@
 
 ## Experience
 
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Cross Mobile Developer**\
+📆 2021 - Moment\
+📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
@@ -71,9 +77,9 @@
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **CIO and Mobile Developer**\
-📆 2016 - Moment\
-📍 **Infinitus Solutions** - Curitiba, Brazil
+- 👨‍💻 **CIO and Cross Mobile Developer**\
+📆 2016 - 2021\
+📍 **Infinitus Solutions** - Curitiba/PR, Brazil
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -83,7 +89,7 @@
 
 - 👨‍💻 **Systems Analyst and Front End Developer**\
 📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente, Brazil
+📍 **Web Works** - Presidente Prudente/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
@@ -93,7 +99,7 @@
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente, Brazil
+📍 **Energisa** - Presidente Prudente/SP, Brazil
 
 <!--## Skills
 
