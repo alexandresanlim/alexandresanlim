@@ -52,7 +52,7 @@
 </p>
 
 <details>
-  <summary>📃 My Resume</summary>
+  <summary>📃 Resume</summary>
 
 
 ## Education
@@ -130,7 +130,7 @@
 </details>
 
 <details>
-  <summary>📦 My Packages</summary>
+  <summary>📦 Packages</summary>
   
   
 
