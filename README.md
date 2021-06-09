@@ -66,7 +66,13 @@
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - Moment\
+📆 2021 - moment\
+📍 **Avanade** - São Paulo/SP, Brazil
+  
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Cross Mobile Developer**\
+📆 2021 - jun/2021\
 📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
