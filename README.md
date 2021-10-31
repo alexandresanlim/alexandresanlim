@@ -64,7 +64,7 @@
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - moment\
-📍 **Avanade** - São Paulo/SP, Brazil
+📍 @Avanade **Avanade** - São Paulo/SP, Brazil
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
