@@ -44,12 +44,10 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
-</p>
+
 
 <p align='center'>
-  🎮 Start a <a href='https://www.chess.com/member/alexandresanlim'>♟Chess game</a> with me, my actual
+  🎮 You can start a <a href='https://www.chess.com/member/alexandresanlim'>♟Chess game</a> with me, my actual
 <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating is&query=%24.chess_daily.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Falexandresanlim%2Fstats'/>
   </p>
 
