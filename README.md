@@ -48,7 +48,7 @@
 
 <p align='center'>
   🎮 You can start a <a href='https://www.chess.com/member/alexandresanlim'>♟Chess game</a> with me, my actual
-<img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating is&query=%24.chess_daily.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Falexandresanlim%2Fstats'/>
+<img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_daily.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Falexandresanlim%2Fstats'/>
   </p>
 
 <details>
