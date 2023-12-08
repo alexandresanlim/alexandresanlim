@@ -156,7 +156,6 @@
 <details>
   <summary>📦 Packages</summary>
   
-  
 
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
@@ -165,11 +164,18 @@
 | [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
 | [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
 
+</details>
 
-
-
-
+<details>
+  <summary>📱 Mobile open source projects</summary>
   
+
+| Name                 | A short summary                              | Stars   | Framework |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [flutter-todo-list-chat-gpt](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
+| [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery) | A list of small apps on Xamarin.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery) | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white) |
+
+
 </details>
   
 
