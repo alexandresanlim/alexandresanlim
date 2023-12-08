@@ -153,8 +153,9 @@
 
 </details>
 
+### I created and maintain these amazing projects
 <details>
-  <summary>📦 Packages</summary>
+  <summary>📦 Packages </summary>
   
 
 | Name                 | A short summary                              | Install   | Downloads |
@@ -167,7 +168,7 @@
 </details>
 
 <details>
-  <summary>📱 Mobile open source projects</summary>
+  <summary>📱 Mobile</summary>
   
 
 | Name                 | A short summary                              | Stars   | Framework |
@@ -177,5 +178,40 @@
 
 
 </details>
+  
+### and contributes for these others
+
+<details>
+
+  <summary> Web </summary>
+  
+
+| Name                 | A short summary                              | Stars   | Language|
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [shields](https://github.com/badges/shields) | A badges svg generator  | ![GitHub Repo stars](https://img.shields.io/github/stars/badges/shields) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E) |
+| [snppts](https://github.com/snpptsdev/snppts) | A Xamarin UI collection  | ![GitHub Repo stars](https://img.shields.io/github/stars/snpptsdev/snppts) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) |
+| [robosats](https://github.com/RoboSats/robosats) | A private Bitcoin exchange  | ![GitHub Repo stars](https://img.shields.io/github/stars/RoboSats/robosats) | ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue) |
+
+
+
+
+
+
+
+</details>
+
+<details>
+
+  <summary> Hardware </summary>
+  
+
+| Name                 | A short summary                              | Stars   | Language|
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2) | A small Bitcoin miner  | ![GitHub Repo stars](https://img.shields.io/github/stars/BitMaker-hub/NerdMiner_v2) | ![C](	https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
+
+
+
+</details>
+
   
 
