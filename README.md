@@ -160,24 +160,16 @@
 
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
+| [pix-dynamic-payload-generator.net](https://github.com/alexandresanlim/pix-dynamic-payload-generator.net) | Create dynamic payload for fast Brazil payment.  | [![Nuget](https://img.shields.io/nuget/v/pix-dynamic-payload-generator.net)](https://www.nuget.org/packages/pix-dynamic-payload-generator.net) | [![Nuget](https://img.shields.io/nuget/dt/pix-dynamic-payload-generator.net)](https://www.nuget.org/packages/pix-dynamic-payload-generator.net) |
+| [pix-payload-generator.net](https://github.com/alexandresanlim/pix-payload-generator.net) | Create static payload for fast Brazil payment.  | [![Nuget](https://img.shields.io/nuget/v/pix-payload-generator.net)](https://www.nuget.org/packages/pix-payload-generator.net) | [![Nuget](https://img.shields.io/nuget/dt/pix-payload-generator.net)](https://www.nuget.org/packages/pix-payload-generator.net) |
 | [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
 | [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
-<!-- | Content Cell         | Content Cell                                | link | link | -->
+
+
+
+
+
   
 </details>
   
 
-<!--
-**alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
