@@ -19,6 +19,12 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+ <p align='center'>
+  <a href='https://pay.blink.sv/sanlim?amount=0&memo=&display=USD'>
+     <img src='https://github.com/alexandresanlim/alexandresanlim/assets/5353685/ca997d22-da69-428f-bce6-ce5a3df274cf' />
+  </a>
+ <p/>
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -45,11 +51,7 @@
 <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Falexandresanlim%2Fstats'/></a>
   </p>
 
- <p align='center'>
-  <a href='https://pay.blink.sv/sanlim?amount=0&memo=&display=USD'>
-     <img src='https://github.com/alexandresanlim/alexandresanlim/assets/5353685/ca997d22-da69-428f-bce6-ce5a3df274cf' />
-  </a>
- <p/>
+
 
 
 <details>
