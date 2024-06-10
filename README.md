@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Brazil.
+  A developer from Brazil.
 </p>
 
 <p align='center'>
