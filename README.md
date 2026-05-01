@@ -170,11 +170,24 @@
 </details>
 
 <details>
+  <summary>🤖 MCP Packages </summary>
+  
+
+| Name                 | A short summary                              | Install   | Downloads |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [home-assistant-switch-mcp-server](https://github.com/alexandresanlim/home-assistant-switch-mcp-server) | MCP Server for Home Assistant switcher.  | ![NPM Version](https://img.shields.io/npm/v/%40sanlim%2Fhome-assistant-switch-mcp-server) | ![NPM Downloads](https://img.shields.io/npm/d18m/%40sanlim%2Fhome-assistant-switch-mcp-server) |
+|[mempool-mcp-server](https://github.com/alexandresanlim/mempool-mcp-server)| MCP Server for Mempool with local possibility | ![NPM Version](https://img.shields.io/npm/v/%40sanlim%2Fmempool-mcp-server) | ![NPM Downloads](https://img.shields.io/npm/d18m/%40sanlim%2Fmempool-mcp-server) |
+
+
+</details>
+
+<details>
   <summary>📱 Mobile</summary>
   
 
 | Name                 | A short summary                              | Stars   | Framework |
 | -------------------- | -------------------------------------------- | --------- | --------- |
+|[chat-btc](https://github.com/alexandresanlim/chat-btc) | A ChatGPT but for bitcoiners |![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/chat-btc) | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) |
 | [flutter-todo-list-chat-gpt](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
 | [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery) | A list of small apps on Xamarin.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery) | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white) |
 
